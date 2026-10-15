@@ -42,9 +42,7 @@ pip install -r requirements.txt
 ```bash
 python scripts/train.py
 ```
-## License
 
-MIT License
 
 ## Contact
 
